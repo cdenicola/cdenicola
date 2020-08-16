@@ -27,8 +27,8 @@ Stanford undergraduate studying **Computer Science** with a focus in Systems and
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="cdenicola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdenicola&show_icons=true&hide_border=true" />
-  <img align="left" alt="cdenicola's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdenicola&layout=compact">
+  <img align="left" alt="My's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdenicola&show_icons=true" />
+  <img align="left" alt="cdenicola's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdenicola">
   <!-- [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cdenicola&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </details>

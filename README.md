@@ -4,9 +4,8 @@ Stanford undergraduate studying **Computer Science** with a focus in Systems and
 ### Connect with me:
 [<img align="left" alt="cooperdenicola | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="cooperdenicola | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][github]
-[<img align="left" alt="cooperdenicola | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg"/>][email]
+[<img align="left" alt="cooperdenicola | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][email]
 
-https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/mail-dot-ru.svg
 </br>
 </br>
 

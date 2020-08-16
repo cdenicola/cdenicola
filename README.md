@@ -14,13 +14,12 @@ Stanford undergraduate studying **Computer Science** with a focus in Systems and
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+<!-- <details>
+  <summary>:zap: Recent Github Activity</summary> -->
   
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
 
 [github]: https://github.com/cdenicola

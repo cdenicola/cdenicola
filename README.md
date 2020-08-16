@@ -16,13 +16,20 @@ Stanford undergraduate studying **Computer Science** with a focus in Systems and
 
 ---
 
-<!-- <details>
-  <summary>:zap: Recent Github Activity</summary> -->
+<details>
+  <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<!-- </details> -->
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cdenicola&show_icons=true&hide_border=true" />
+
+</details>
 
 
 [github]: https://github.com/cdenicola

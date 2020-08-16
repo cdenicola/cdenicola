@@ -25,10 +25,10 @@ Stanford undergraduate studying **Computer Science** with a focus in Systems and
 
 
 <summary>:zap: Github Stats</summary>
-<a href="">
+<a href="#">
 <img align="left" alt="My's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdenicola&show_icons=true" />
 </a>
-<a href="">
+<a href="#">
 <img align="left" alt="cdenicola's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdenicola">
 </a>
 

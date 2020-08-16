@@ -20,6 +20,8 @@ Stanford undergraduate studying **Computer Science** with a focus in Systems and
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//cdenicola/cdenicola/pull/1) in [cdenicola/cdenicola](https://github.com//cdenicola/cdenicola)
+2. 💪 Opened PR [#1](https://github.com//cdenicola/cdenicola/pull/1) in [cdenicola/cdenicola](https://github.com//cdenicola/cdenicola)
 <!--END_SECTION:activity-->
 
 </details>

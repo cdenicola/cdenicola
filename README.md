@@ -21,6 +21,7 @@ https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/mail-dot-ru.svg
   <summary>:zap: Recent Github Activity</summary> -->
   
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!-- </details> -->
 

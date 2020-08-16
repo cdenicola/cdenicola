@@ -1,10 +1,10 @@
 # Cooper de Nicola
-Stanford undergraduate studying Computer Science with a focus in Systems and Cyber Security. 
+Stanford undergraduate studying **Computer Science** with a focus in Systems and ***Cyber Security***. 
 
 ### Connect with me:
 [<img align="left" alt="cooperdenicola | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="cooperdenicola | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][github]
-
+</br>
 
 ### Experience:
 - 👻 Security Engineer Intern @ Snap

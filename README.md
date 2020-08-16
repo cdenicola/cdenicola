@@ -14,6 +14,9 @@ Stanford undergraduate studying **Computer Science** with a focus in Systems and
 - 🌲 Stanford Course Assistant - INTLPOL 268: Hack Lab 
 - 🎓 Stanford Course Instructor - CS 106s: Coding for Social Good
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="cdenicola Spotify Playing" width="350" />](https://open.spotify.com/user/22l24pvcm7u2zgapuil7nzfai)
+
 ---
 
 <summary>:zap: Recent Github Activity</summary>

@@ -16,24 +16,21 @@ Stanford undergraduate studying **Computer Science** with a focus in Systems and
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+<summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com//cdenicola/cdenicola/pull/1) in [cdenicola/cdenicola](https://github.com//cdenicola/cdenicola)
 2. 💪 Opened PR [#1](https://github.com//cdenicola/cdenicola/pull/1) in [cdenicola/cdenicola](https://github.com//cdenicola/cdenicola)
 <!--END_SECTION:activity-->
 
-</details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="My's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdenicola&show_icons=true" />
-  <img align="left" alt="cdenicola's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdenicola">
-  <!-- [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cdenicola&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-</details>
+<summary>:zap: Github Usage Stats</summary>
+<a href="#">
+<img align="left" alt="My's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdenicola&show_icons=true?count_private=true" />
+</a>
+<a href="#"> 
+<img align="left" alt="cdenicola's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdenicola">
+</a>
 
 
 [github]: https://github.com/cdenicola

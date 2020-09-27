@@ -19,8 +19,8 @@ Stanford undergraduate studying **Computer Science** with a focus in Systems and
 <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//cdenicola/HackLab-Section-Lessons/pull/1) in [cdenicola/HackLab-Section-Lessons](https://github.com//cdenicola/HackLab-Section-Lessons)
-2. 💪 Opened PR [#1](https://github.com//cdenicola/HackLab-Section-Lessons/pull/1) in [cdenicola/HackLab-Section-Lessons](https://github.com//cdenicola/HackLab-Section-Lessons)
+1. 🎉 Merged PR [#1](https://github.com/cdenicola/HackLab-Section-Lessons/pull/1) in [cdenicola/HackLab-Section-Lessons](https://github.com/cdenicola/HackLab-Section-Lessons)
+2. 💪 Opened PR [#1](https://github.com/cdenicola/HackLab-Section-Lessons/pull/1) in [cdenicola/HackLab-Section-Lessons](https://github.com/cdenicola/HackLab-Section-Lessons)
 <!--END_SECTION:activity-->
 
 

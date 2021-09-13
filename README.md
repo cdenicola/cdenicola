@@ -1,5 +1,5 @@
 # Cooper de Nicola
-Stanford undergraduate studying **Computer Science** with a focus in Systems and ***Cyber Security***. 
+Stanford undergraduate and master's student studying **Computer Science** with a focus in Systems and ***Cyber Security***. 
 
 ### Connect with me:
 [<img align="left" alt="cooperdenicola | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
@@ -10,6 +10,8 @@ Stanford undergraduate studying **Computer Science** with a focus in Systems and
 </br>
 
 ### Experience:
+- 🔥 Red Team Consulting Intern @ FireEye Mandiant
+- 🪶 Security Engineer Intern @ Robinhood
 - 👻 Security Engineer Intern @ Snap Inc.
 - 🌲 Stanford Course Assistant - INTLPOL 268: Hack Lab 
 - 🎓 Stanford Course Instructor - CS 106s: Coding for Social Good

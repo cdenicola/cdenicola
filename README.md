@@ -10,10 +10,11 @@ Stanford undergraduate and master's student studying **Computer Science** with a
 </br>
 
 ### Experience:
+- 🔴 Software Engineer, Intern @ Instabase
 - 🔥 Red Team Consulting Intern @ FireEye Mandiant
-- 🪶 Security Engineer Intern @ Robinhood
+- 🪶 Software Engineer, Security, Intern @ Robinhood
 - 👻 Security Engineer Intern @ Snap Inc.
-- 🌲 Stanford Course Assistant - INTLPOL 268: Hack Lab 
+- 🌲 Stanford Course Assistant  - INTLPOL 268: Hack Lab 
 - 🎓 Stanford Course Instructor - CS 106s: Coding for Social Good
 
 ---
